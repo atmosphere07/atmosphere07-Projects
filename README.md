@@ -1,22 +1,22 @@
 # python
 
-####介绍
+##介绍##
 python代码
 
-####软件架构
+##软件架构##
 软件架构说明
 
 
-###安装教程
+###安装教程###
 
 1.microsoft store安装
 2.官网安装
 
-###使用说明
+###使用说明###
 
 下载就行 
 
-####参与贡献
+####参与贡献####
 
 1.  Fork 本仓库
 2.新建Feat_xxx 分支
@@ -24,7 +24,7 @@ python代码
 4.新建Pull Request
 
 
-###特技
+###特技###
 
 1.使用Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2.Gitee 官方博客[blog.gitee.com](https://blog.gitee.com)
