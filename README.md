@@ -1,4 +1,4 @@
-###### py cmd ps1 sh bat c cpp java项目######
+py cmd ps1 sh bat c cpp java项目
 
 ##介绍##
 
