@@ -3,7 +3,7 @@ import sys
 
 help  ="""
 hash-en-sh by atmosphere07 v1.0
-see https://github.com/atmosphere07/atmosphere07-Projets
+see https://github.com/atmosphere07/atmosphere07-Projects
 hash-en-sh [mod] [filenname]
 mod:
     -md5     md5
