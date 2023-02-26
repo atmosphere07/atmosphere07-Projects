@@ -6,12 +6,12 @@ hash-en-sh by atmosphere07 v1.0
 see https://github.com/atmosphere07/atmosphere07-Projects
 hash-en-sh [mod] [filenname]
 mod:
-    -md5     md5
-    -sha1    sha1
-    -sha224  sha224
-    -sha256  sha256
-    -sha384  sha384
-    -sha512  sha512
+    -md5       md5
+    -sha1      sha1
+    -sha224    sha224
+    -sha256    sha256
+    -sha384    sha384
+    -sha512    sha512
 
 hash-en-sh -md5 hash-en.py
 d45027a6881d26cf4f6120fd7b126dae
