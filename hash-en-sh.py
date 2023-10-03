@@ -5,11 +5,12 @@ help2 = """hash-en-sh v1.5
 Copyright (c) 2022-2023 by atmosphere07
 hash-en-sh [OPINION] [FILENAME]
 hash-em-sh --help show all help"""
-help  ="""hash-en-sh v1.5
+help  ="""hash-en-sh v1.6
 Copyright (c) 2022-2023 by atmosphere07
 Homepage: https://github.com/atmosphere07/atmosphere07-Projects
-hash-en-sh [OPINION] [FILENAME]
 Usage:
+    hash-en-sh [OPINION] [FILENAME]
+OPINIONS:
     -md5
     -sha1
     -sha224
